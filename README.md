@@ -1,7 +1,7 @@
 ###  Hello there! 🚀
 I'm *github_account_name!*
 
-Just kidding, I'm *Carlos, a experienced Frontend developer currently working at **Minsait*!
+Just kidding, I'm ***Carlos**, a experienced Frontend developer currently working at* **Minsait**!
 
  - 👷‍♀ I've finished my studies of higher cycle DAM, and after that, I have focused on what I like the most, which is frontend development.
  - 🤖 I have no experience on it but I'm super interested on working in projects related to *AI* or *VR*.
