@@ -19,7 +19,7 @@ Page structure & styling:
 
 Backend:
 
-![](https://skillicons.dev/icons?i=java.mysql) Java and MySQL
+![](https://skillicons.dev/icons?i=java,mysql) Java and MySQL
 
 Other tools:
 
