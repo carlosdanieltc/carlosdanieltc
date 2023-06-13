@@ -3,9 +3,9 @@ I'm *github_account_name!*
 
 Just kidding, I'm ***Carlos**, a experienced Frontend developer currently working at* **Minsait**!
 
- - 👷‍♀ I've finished my studies of higher cycle DAM, and after that, I've focused on what I like the most, which is frontend development.
- - 🤖 I have no experience on it but I'm super interested on working in projects related to *AI* or *VR*.
- - 📝 I really enjoy the process of designing and structuring a product before coding it!
+ - 👷‍♀ I’ve finished my higher DAM studies. Then, I’ve focused on frontend development, that it’s the most I like it.
+ - 🤖 I haven’t got experience about it, but I'm very interested in working in projects associated to *AI* or *VR*.
+ - 📝 I really enjoy the process of designing and structuring a product before coding it!
 
 *My tech and tools*
 
